@@ -1,0 +1,25 @@
++++ Grundsätzlich ist folgendes mit all meinen Scripten erlaubt:
+- kostenloses Anbieten zum Download
+- Weitergabe "unter der Hand"
+- Verändern der Scripte zum Eigenbedarf
+- studieren, kopieren, verändern der Quellcodes
+
++++ Folgendes ist grundsätzlich _nicht_ erlaubt:
+- kostenpflichtiges Anbieten zum Download/Weitergabe
+- Anbieten von veränderten Dateien zum Download (sog. Copymixing) (Anleitungen zum Umbau sind erlaubt)
+- Es ist ausdrücklich Websiten _nicht_ erlaubt, irgendetwas von mir zum Download anzubieten, die
+	- illegale Inhalte aller Art anbieten (insbesondere Warez!)
+	- zwar den Download kostenfrei zum Download anbieten, aber eine geschlossene Registrierung haben (wenn eine Registrierung erforderlich ist, muss diese auch geöffnet sein!)
+
+- das Verwenden meiner Scripte zu illegalen Zwecken
+- das Verändern des Autors (der Autor ist und bleibt kill0rz (ich), jegliches anderes Ausgeben ist strengstens verboten!)
+- das Umschreiben meiner Scripte auf geschlossene Betriebssysteme (insbesondere Mac OS und Windows, auch nicht zum Eigenbedarf!)
+
++++ Und das hier wäre schön:
+- ein Backlink auf kill0rz.com, blog.kill0rz.com oder coding.kill0rz.com
+- eine Spende :D ;)
+
+
+-------
+
+kill0rz Unilicence v1.0 from 08.08.2014
